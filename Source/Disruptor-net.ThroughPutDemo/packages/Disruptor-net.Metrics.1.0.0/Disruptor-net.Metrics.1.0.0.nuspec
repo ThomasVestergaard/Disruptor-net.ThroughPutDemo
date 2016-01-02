@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>Disruptor-net.Metrics</id>
+    <version>1.0.0</version>
+    <title>Disruptor-net.Metrics</title>
+    <authors>Thomas Vestergaard</authors>
+    <owners>Thomas Vestergaard</owners>
+    <licenseUrl>https://github.com/ThomasVestergaard/Disruptor-net.Metrics/blob/master/LICENSE.md</licenseUrl>
+    <projectUrl>https://github.com/ThomasVestergaard/Disruptor-net.Metrics</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Library for monitoring your disruptor ringbuffers.</description>
+    <language>en-GB</language>
+    <tags>disruptor-net disruptor concurrency</tags>
+  </metadata>
+</package>
